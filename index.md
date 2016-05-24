@@ -20,7 +20,6 @@ layout: default
           <a href="http://eidosper.github.io" class="title">main page test</a>
           <div class="title-desc">Test</div>
         </li>
-<a href="http://weibo.com/eidosper/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
         {% endfor %}
       </ul>
     </div>
