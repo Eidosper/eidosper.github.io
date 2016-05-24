@@ -15,12 +15,12 @@ layout: default
 
     <div class="index-content">
       <ul class="artical-list">
-        {% for post in site.categories.blog %}
+        
         <li>
           <a href="http://eidosper.github.io" class="title">main page test</a>
           <div class="title-desc">Test</div>
         </li>
-        {% endfor %}
+       
       </ul>
     </div>
   </div>
